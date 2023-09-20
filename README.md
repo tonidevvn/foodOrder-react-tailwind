@@ -4,7 +4,7 @@ Food delivery web app, created with React.js & Vite
 
 ### [Demo page](https://food-order-app-livid-ten.vercel.app/)
 
-![Vercel] (https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <pre>
 <code>https://food-order-app-livid-ten.vercel.app/</code>
@@ -47,7 +47,7 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ## 🖍 Design
 
-![Figma] (https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <pre>
 <code>https://www.figma.com/file/DlU9N2bzYPhOGl8fodSZzH/Food-delivery-app-Ui-kit-(Community)?type=design&node-id=513-122&mode=design&t=raMfOasmjbToR8Dr-0/</code>
