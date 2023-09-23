@@ -17,6 +17,10 @@ export default {
         bannerBottom: "516px",
         appImage: "400px",
       },
+      fontFamily: {
+        poppins: ["Poppins", "sans-serif"],
+        montserrat: ["Montserrat", "sans-serif"],
+      },
     },
   },
   plugins: [],
